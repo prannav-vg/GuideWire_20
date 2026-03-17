@@ -94,7 +94,9 @@ The payout is transferred instantly using **UPI payment APIs**, providing immedi
 
 ## System Architecture
 
-![Uploading image.png…]()
+The following diagram illustrates the system architecture.
+
+![System Architecture](Screenshot 2026-03-17 193359.png)
 
 
 ## Core Workflow
