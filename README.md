@@ -371,3 +371,4 @@ This platform strengthens financial resilience for gig workers by:
 - Providing affordable micro-insurance solutions
 
 The system demonstrates how **AI, real-time data, and parametric insurance** can significantly improve social protection mechanisms for gig economy workers.
+Drive Link for Video:- https://drive.google.com/file/d/1q0tsIBsf9PVVw5kYe4Yjgvo85J73s-iy/view?usp=drivesdk
