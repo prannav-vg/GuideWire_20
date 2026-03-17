@@ -94,32 +94,8 @@ The payout is transferred instantly using **UPI payment APIs**, providing immedi
 
 ## System Architecture
 
-```
-External Data Sources
-       │
-       ▼
-Event Monitoring Engine
-       │
-       ▼
-Parametric Trigger Engine
-       │
-       ▼
-Worker Activity & Earnings Data
-       │
-       ▼
-Loss Calculation Engine
-       │
-       ▼
-Fraud Detection Model
-       │
-       ▼
-Automated Payout System
-       │
-       ▼
-UPI Payment Gateway
-```
+![Uploading image.png…]()
 
----
 
 ## Core Workflow
 
